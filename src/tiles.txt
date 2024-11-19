@@ -1,0 +1,97 @@
+96
+17,56,71,71,tile3,true,wall, (corner)
+17,127,71,71,tile10,true,wall
+17,198,71,71,tile10,true,wall
+17,269,71,71,tile5,true,wall, (corner)
+88,56,71,71,tile7,true,ceiling
+88,127,71,71,tile22,false,background
+88,198,71,71,tile15,false,background
+88,269,71,71,tile8,true,floor
+159,-15,71,71,tile1,true,ceiling
+159,56,71,71,tile11,true,wall, (corner)
+159,127,71,71,tile20,false,background
+159,198,71,71,tile21,false,background
+159,272,71,69,tile12,true,wall, (corner)
+159,269,71,71,tile12,true,floor, (corner)
+159,340,71,71,tile5,true,floor, (corner)
+230,-15,71,71,tile7,true,ceiling
+230,56,71,71,tile22,false,background
+230,127,71,71,tile19,false,background
+230,198,71,71,tile18,false,background
+230,269,71,71,tile15,false,background
+230,340,71,71,tile8,true,floor
+301,-15,71,71,tile7,true,ceiling
+301,56,71,71,tile20,false,background
+301,127,71,71,tile23,false,background
+301,198,71,71,tile23,false,background
+301,269,71,71,tile16,false,background
+301,340,71,71,tile8,true,floor
+372,-15,71,71,tile7,true,ceiling
+372,56,71,71,tile20,false,background
+372,127,71,71,tile23,false,background
+372,198,71,71,tile23,false,background
+372,269,71,71,tile16,false,background
+372,340,71,71,tile8,true,floor
+443,-15,71,71,tile7,true,ceiling
+443,56,71,71,tile20,false,background
+443,127,71,71,tile23,false,background
+443,198,71,71,tile23,false,background
+443,269,71,71,tile16,false,background
+443,340,71,71,tile8,true,floor
+514,-15,71,71,tile7,true,ceiling
+514,56,71,71,tile20,false,background
+514,127,71,71,tile23,false,background
+514,198,71,71,tile23,false,background
+514,269,71,71,tile16,false,background
+514,340,71,71,tile8,true,floor
+585,-15,71,71,tile7,true,ceiling
+585,56,71,71,tile20,false,background
+585,127,71,71,tile25,false,background
+585,198,71,71,tile24,false,background
+585,269,71,71,tile17,false,background
+585,340,71,71,tile8,true,floor
+656,-15,71,71,tile7,true,ceiling
+656,56,71,71,tile20,false,background
+656,127,71,71,tile21,false,background
+656,198,71,71,tile9,true,floor, (corner)
+656,193,71,66,tile9,true,wall, (corner)
+656,269,71,71,tile14,true,wall
+656,339,71,70,tile4,true,wall, (corner)
+656,340,71,71,tile4,true,floor, (corner)
+727,-15,71,71,tile7,true,ceiling
+727,56,71,71,tile20,false,background
+727,127,71,71,tile18,false,background
+727,198,71,71,tile15,false,background
+727,269,71,71,tile8,true,floor
+798,-15,71,71,tile7,true,ceiling
+798,56,71,71,tile20,false,background
+798,127,71,71,tile23,false,background
+798,198,71,71,tile23,false,background
+798,269,71,71,tile8,true,floor
+869,-15,71,71,tile7,true,wall, ceiling
+869,56,71,71,tile20,false,background
+869,127,71,71,tile24,false,background
+869,198,71,71,tile17,false,background
+869,269,71,71,tile8,true,floor
+940,-15,71,71,tile2,true,wall, (corner)
+940,56,71,71,tile13,true,wall
+940,127,71,71,tile13,true,wall
+940,198,71,71,tile13,true,wall
+940,269,71,71,tile6,true,wall, (corner)
+107,147,100,121.74,tile29,false,door
+86,233,50,36.36,tile27,false,box
+489,162,50,36.36,tile27,false,box
+608,304,50,36.36,tile27,false,box
+729,236,50,36.36,tile27,false,box
+736,200,50,36.36,tile27,false,box
+894,233,50,36.36,tile27,false,box
+658,76,85,54.09,tile28,false,cannon
+248,64,99,126.18,tile30,false,window
+86,185,45,66,tile26,false,bomb
+453,148,45,66,tile26,false,bomb
+337,190,222,50,tile31,true,floor, (platform)
+576,235,90,33,tile33,true,floor, (platform)
+653,118,206,59,tile32,true,floor, (platform)
+871,56,70,87,tile34,false,other, (ribbon)
+862,143,86,89,tile35,false,other, (ribbon)
+785,150,100,121.74,tile29,true,goal
